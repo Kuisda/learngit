@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Add new merge without fast forward.
 bug fixed.
+change in feature1.
